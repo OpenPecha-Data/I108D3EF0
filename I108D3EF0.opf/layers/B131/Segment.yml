@@ -1,0 +1,100 @@
+id: 199791d3d8b646b68e2e57be27543c17
+annotation_type: Segment
+revision: '00001'
+annotations:
+  db4bf8302218421abc3aa2dcb3d5e7a1:
+    span:
+      start: 0
+      end: 38
+  ca444ef4f4914522b15db2e84c24cc5a:
+    span:
+      start: 40
+      end: 67
+  3c97bee97879455880ac51e83db720ec:
+    span:
+      start: 69
+      end: 187
+  d8b510c6eb1c46f8a10f0f5b533b5df8:
+    span:
+      start: 189
+      end: 232
+  621cb0463eef471eb1098519956e3b45:
+    span:
+      start: 234
+      end: 347
+  9222f0ad0fe046d49a47c06a7f330908:
+    span:
+      start: 349
+      end: 368
+  750ffe525dfb42058fa12408d3f08aed:
+    span:
+      start: 370
+      end: 482
+  fd0468f7ddb8498f87af9a98170a2659:
+    span:
+      start: 484
+      end: 524
+  50854cf07b66482b80162d5c59e743d7:
+    span:
+      start: 526
+      end: 649
+  10bc98c68da3420aaec38bd684c83cb2:
+    span:
+      start: 651
+      end: 757
+  9764d25114c74dcba0b5d96523929a9b:
+    span:
+      start: 759
+      end: 806
+  e72b02f089234f488a43a045506e1908:
+    span:
+      start: 808
+      end: 944
+  ff81c93c75cb47a1b9a9b13500c6a751:
+    span:
+      start: 946
+      end: 1057
+  d95eb7e54ddf46d5b5d03bcc1907fd36:
+    span:
+      start: 1059
+      end: 1101
+  e0248cb50bff4f8d9acb2a5d5743360a:
+    span:
+      start: 1103
+      end: 1247
+  ba49a18d6de94906be47f7e41bcec850:
+    span:
+      start: 1249
+      end: 1354
+  39141ab4d58c43a78b85f80d0338552f:
+    span:
+      start: 1356
+      end: 1384
+  c4fb64c1304e4ec983e51d3e7546c8a6:
+    span:
+      start: 1386
+      end: 1507
+  843a2dd4c39e4261b44421f9f6f895c6:
+    span:
+      start: 1509
+      end: 1593
+  a68ca2a5b91e47d2a10b9bf3daf80ff0:
+    span:
+      start: 1595
+      end: 1700
+  d86142933d5542b49e1f8a83f2b76218:
+    span:
+      start: 1702
+      end: 1801
+  dd8999c708304d23ac3be9a91d9a09de:
+    span:
+      start: 1803
+      end: 1878
+  63c84abf55ac4b848cbc3912ab1762c9:
+    span:
+      start: 1880
+      end: 1920
+  a6e788bee8834d1bab1a08437207bade:
+    span:
+      start: 1922
+      end: 2125
